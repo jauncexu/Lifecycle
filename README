@@ -1,0 +1,6 @@
+Lifecycle可以有效的避免内存泄漏和解决android生命周期的常见难题
+Livecycle是一个表示android生命周期及状态的对象
+LivecycleOwner 用于连接有生命周期的对象，如activity,fragment LivecycleObserver	用于观察查LifecycleOwner
+Lifecycle框架使用观察者模式实现观察者监听被观察者的生命周期的变化
+
+
